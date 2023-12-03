@@ -1,0 +1,58 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/nimes/ddr2/ddr2.srcs/sources_1/new/DDR2_mem_wb_if.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module DDR2_mem_wb_if
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/nimes/ddr2/ddr2.srcs/sources_1/new/MEMCtrl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module MEMCtrl
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/nimes/ddr2/ddr2.srcs/sources_1/new/clkGenPLL.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module clkGenPLL
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/nimes/ddr2/ddr2.srcs/sources_1/new/ddr2_adr_data_gen.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ddr2_adr_data_gen
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/nimes/ddr2/ddr2.srcs/sources_1/new/ddr2_chipscope.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module icon4
+INFO: [VRFC 10-311] analyzing module vio_async_in192
+INFO: [VRFC 10-311] analyzing module vio_async_in96
+INFO: [VRFC 10-311] analyzing module vio_async_in100
+INFO: [VRFC 10-311] analyzing module vio_sync_out32
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/nimes/ddr2/ddr2.srcs/sources_1/new/ddr2_ctrl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ddr2_ctrl
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/nimes/ddr2/ddr2.srcs/sources_1/new/ddr2_idelay_ctrl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ddr2_idelay_ctrl
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/nimes/ddr2/ddr2.srcs/sources_1/new/ddr2_infrastructure.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ddr2_infrastructure
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/nimes/ddr2/ddr2.srcs/sources_1/new/ddr2_mem_if_top.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ddr2_mem_if_top
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/nimes/ddr2/ddr2.srcs/sources_1/new/ddr2_phy_calib.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ddr2_phy_calib
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/nimes/ddr2/ddr2.srcs/sources_1/new/ddr2_phy_ctl_io.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ddr2_phy_ctl_io
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/nimes/ddr2/ddr2.srcs/sources_1/new/ddr2_phy_dm_iob.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ddr2_phy_dm_iob
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/nimes/ddr2/ddr2.srcs/sources_1/new/ddr2_phy_dq_iob.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ddr2_phy_dq_iob
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/nimes/ddr2/ddr2.srcs/sources_1/new/ddr2_phy_dqs_iob.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ddr2_phy_dqs_iob
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/nimes/ddr2/ddr2.srcs/sources_1/new/ddr2_phy_init.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ddr2_phy_init
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/nimes/ddr2/ddr2.srcs/sources_1/new/ddr2_phy_io.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ddr2_phy_io
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/nimes/ddr2/ddr2.srcs/sources_1/new/ddr2_phy_top.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ddr2_phy_top
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/nimes/ddr2/ddr2.srcs/sources_1/new/ddr2_phy_write.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ddr2_phy_write
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/nimes/ddr2/ddr2.srcs/sources_1/new/ddr2_top.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ddr2_top
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/nimes/ddr2/ddr2.srcs/sources_1/new/ddr2_user_if_top.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ddr2_user_if_top
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/nimes/ddr2/ddr2.srcs/sources_1/new/ddr2_usr_addr_fifo.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ddr2_usr_addr_fifo
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/nimes/ddr2/ddr2.srcs/sources_1/new/ddr2_usr_rd.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ddr2_usr_rd
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/nimes/ddr2/ddr2.srcs/sources_1/new/ddr2_usr_top.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ddr2_usr_top
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/nimes/ddr2/ddr2.srcs/sources_1/new/ddr2_usr_wr.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ddr2_usr_wr
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/nimes/ddr2/ddr2.srcs/sources_1/new/debounceRst.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module debounceRst
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/nimes/ddr2/ddr2.srcs/sources_1/new/DDR2_Mem.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module DDR2_Mem
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/nimes/ddr2/ddr2.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
